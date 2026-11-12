@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Agent Automation</string>
+    <string name="accessibility_description">Performs user-approved accessibility actions only.</string>
+</resources>
